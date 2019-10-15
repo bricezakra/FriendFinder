@@ -1,2 +1,15 @@
 # FriendFinder
-"FriendFinder" is a compatibility-based friend finder application. It is basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
+
+FriendFinder is a fullstack match making application using the Express package for Node.js!
+
+Check out the deployed app on Heroku here ... !
+
+This app uses Express to serve 2 static HTML files and 2 API routes to get and post data.
+
+Note that data is not persistent, but rather stored in an object in friends.js for your current session.
+
+
+
+## Instructions
+
+Clone down the repo to your laptop, run npm install to download the Node dependencies, then serve the app in localhost:8080 in your browser.
